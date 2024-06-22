@@ -1,0 +1,1 @@
+This Portal is made entirely on MERN Stack. It is a platform where the Enterprise can post job applications about all needs and requirements. The Poejct is ongoing to add more structural and functional modes to enhance user experience.
